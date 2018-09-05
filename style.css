@@ -1,0 +1,14 @@
+body{
+  background-color: red;
+}
+
+#myClock{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translateX(-50%) translateY(-50%);
+  color:white;
+  font-family: "Orbitron",sans-serif;
+  font-size: 80px;
+  text-shadow: 3px 5px black;
+}
